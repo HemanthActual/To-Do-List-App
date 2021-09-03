@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/HemanthActual/To-Do-List-App/blob/master/ToDoListAppGifWalkthrough.gif
+https://github.com/HemanthActual/To-Do-List-App/blob/master/ToDoListAppGifWalkthrough.gif?raw=true
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
