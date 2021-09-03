@@ -26,7 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/HemanthActual/To-Do-List-App/blob/master/ToDoListAppGifWalkthrough.gif?raw=true
+[Adding and Removing Items on App](https://github.com/HemanthActual/To-Do-List-App/blob/master/ToDoListAppGifWalkthrough.gif?raw=true)
+
+[Persistance of List](https://raw.githubusercontent.com/HemanthActual/To-Do-List-App/master/ToDoListAppGifWalkthrough2.gif?raw=true)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
